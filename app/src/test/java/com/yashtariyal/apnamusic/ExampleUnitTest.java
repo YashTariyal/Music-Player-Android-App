@@ -1,4 +1,4 @@
-package com.harshsharma.apnamusic;
+package com.yashtariyal.apnamusic;
 
 import org.junit.Test;
 
